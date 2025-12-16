@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.testpoc.keypasspoc",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:83:C8:...",
+        "FA:C6:17:45:..."
+      ]
+    }
+  }
+]
